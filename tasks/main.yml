@@ -1,0 +1,6 @@
+---
+- name: Add PUIAS_6_computational repository.
+  copy: src=PUIAS_6_computational.repo dest=/etc/yum.repos.d/PUIAS_6_computational.repo owner=root group=root mode=0644
+
+- name: Install PUIAS GPG key.
+  rpm_key: state=present key=http://springdale.math.ias.edu/data/puias/6/x86_64/os/RPM-GPG-KEY-puias
