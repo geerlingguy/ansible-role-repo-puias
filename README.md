@@ -1,6 +1,6 @@
 # Ansible Role: PUIAS Repository
 
-Installs the PUIAS repository for RHEL/CentOS 6.x.
+Installs the PUIAS repository for RHEL/CentOS.
 
 ## Requirements
 
