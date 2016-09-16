@@ -14,3 +14,6 @@ galaxy_info:
     - 7
   galaxy_tags:
     - packaging
+    - epel
+    - repository
+    - repo
