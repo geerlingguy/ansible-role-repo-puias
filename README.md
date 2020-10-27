@@ -1,6 +1,6 @@
 # Ansible Role: PUIAS Repository
 
-[![Build Status](https://travis-ci.org/geerlingguy/ansible-role-repo-puias.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-repo-puias)
+[![Build Status](https://travis-ci.com/geerlingguy/ansible-role-repo-puias.svg?branch=master)](https://travis-ci.com/geerlingguy/ansible-role-repo-puias)
 
 Installs the PUIAS repository for RHEL/CentOS.
 
