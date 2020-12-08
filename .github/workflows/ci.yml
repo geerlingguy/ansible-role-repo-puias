@@ -43,7 +43,6 @@ jobs:
       matrix:
         distro:
           - centos7
-          - centos6
 
     steps:
       - name: Check out the codebase.
